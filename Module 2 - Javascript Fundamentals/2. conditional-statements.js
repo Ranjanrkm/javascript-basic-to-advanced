@@ -17,8 +17,6 @@ if (remainderAfterDivisionByThree === 0 && remainderAfterDivisionByFive === 0){
 }
 if (remainderAfterDivisionByThree === 0 || remainderAfterDivisionByFive === 0){
     console.log("Buzz");
-}else{
-
 }
 
 if (remainderAfterDivisionBySeven === 0){
