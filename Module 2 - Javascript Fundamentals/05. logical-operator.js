@@ -1,6 +1,6 @@
 /**
  * Logical Operator with Conditional Statement
- * 1. OR || ⚡ --> if atleast one condition us true then || will return true otherwise || will return false
+ * 1. OR || ⚡ --> if atleast one condition is true then || will return true otherwise || will return false
  * 2. AND && 🔥 --> all the conditions must be true then && will return true otherwise && will return false
  * 3. NOT ! ⛄
  * 4. NULLISH COALESCING ?? 🌈
