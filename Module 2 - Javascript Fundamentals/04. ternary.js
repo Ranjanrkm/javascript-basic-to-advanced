@@ -2,7 +2,7 @@
  * Ternary Operators🌟🔥🌟 --> condition ? yes : no
  */
 
-const totalMarksScored = 100;
+const totalMarksScored = 80;
 
 if (totalMarksScored < 40){
     console.log("You need to work hard.");
