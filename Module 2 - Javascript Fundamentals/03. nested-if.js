@@ -1,4 +1,3 @@
-
 const readlineSync = require("readline-sync");
 
 const number = Number(readlineSync.question("Enter a number: "));
