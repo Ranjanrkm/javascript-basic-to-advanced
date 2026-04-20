@@ -16,33 +16,19 @@
 // const userName = firstName || nickName || "HiddenGeek"; // Short Circuiting
 // console.log(`Name - ${userName}`)
 
-// let a = 12;
-// let b;
+let a = 12;
+let b;
 
-// console.log(a + (b || 0));
-
-
-
-
-// const firstName = "Prakash";
-// const nickName = "Anna";
-
-// const userName = firstName && nickName && "HiddenGeek";
-// console.log(`Name - ${userName}`);
+console.log(a + (b || 0));
 
 
 
 
+const firstName = "Ranjan";
+const nickName = "Mahato";
 
-
-
-
-
-
-
-
-
-
+const userName = firstName && nickName && "HiddenGeek";
+console.log(`Name - ${userName}`);
 
 
 
