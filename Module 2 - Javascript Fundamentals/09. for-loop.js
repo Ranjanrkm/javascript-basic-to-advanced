@@ -2,7 +2,7 @@
  * for loop
  */
 
-const userName = "Prakash Narsingrao Sakari Padma";
+const userName = "Ranjan Kumar Mahato";
 
 const stringLength = userName.length;
 
