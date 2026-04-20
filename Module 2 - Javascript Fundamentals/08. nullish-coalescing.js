@@ -10,7 +10,7 @@ console.log(firstName ?? "HiddenGeeks");
 
 // console.log(a ?? 1);
 
-// let a = 12
-// let b;
+let a = 12
+let b;
 
-// console.log(a + (b ?? 0));
+console.log(a + (b ?? 0));

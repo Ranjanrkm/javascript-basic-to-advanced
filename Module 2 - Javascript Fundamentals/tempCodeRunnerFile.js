@@ -1,1 +1,8 @@
-console.log(50 == 40);
+const a = 0;
+
+console.log(a ?? 1);
+
+let a = 12
+let b;
+
+console.log(a + (b ?? 0));
