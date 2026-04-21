@@ -8,9 +8,10 @@
  *
  */
 
-const username = "prakash";
+
+const username = "Ranjan";
 try {
-  someFunction();
+
   console.log("hey there");
 } catch (error) {
   console.log(error.name);
