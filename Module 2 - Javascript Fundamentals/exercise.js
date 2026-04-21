@@ -37,6 +37,7 @@ if (
   console.log("Found 2 or more of the same length");
 }
 
+
 /** A program that reads the string and counts numbers of vowels in a string */
 
 const inputString1 = "I am a GFGian";
