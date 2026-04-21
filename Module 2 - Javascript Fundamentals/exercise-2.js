@@ -7,20 +7,20 @@
  *  * * * * *
  */
 
-// const symbol = "* ";
+const symbol = "* ";
 
-// for (let i=1; i<=5; i++){
-//     console.log(symbol.repeat(i))
-// }
+for (let i=1; i<=5; i++){
+    console.log(symbol.repeat(i))
+}
 
 // // i-- --> i = i - 1
 
-// for (let i=5; i>=1; i--){
-//     console.log(symbol.repeat(i))
-// }
+for (let i=5; i>=1; i--){
+    console.log(symbol.repeat(i))
+}
 
 
-// let userName = "Prakash Narsingrao Sakari Padma";
+// let userName = "Ranjan Kumar Mahato";
 // let count = 0;
 // for (let i=0; i<userName.length; i++){
 //     count++; // count = count + 1
