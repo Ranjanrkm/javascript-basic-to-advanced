@@ -4,7 +4,7 @@
 
 let readlineSync = require("readline-sync");
 
-let number = 500;
+let number = 700;
 
 while (number >= 50){
     number = readlineSync.question("Enter a number less than 50 - ");
