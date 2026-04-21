@@ -6,7 +6,7 @@
 
 let i = 0;
 
-while (i < 10){
+while (i < 20){
     console.log(i);
     i = i + 1
 }
