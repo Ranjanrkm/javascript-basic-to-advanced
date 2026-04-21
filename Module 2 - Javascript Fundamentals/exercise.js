@@ -51,6 +51,8 @@ console.log("Number of vowels =", count1);
 const char = ["a", "b", "c", "d", "e"];
 
 const inputString2 = "I am a GFGian";
+
+
 // const inputString2 = "The quick brown fox jumps over the lazy dog"
 const anagramString = (text) => {
   for (let i = 0; i < inputString2.length; i++) {
